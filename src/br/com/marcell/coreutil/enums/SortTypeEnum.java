@@ -1,4 +1,4 @@
-package br.com.marcell.coreutil.enumeration;
+package br.com.marcell.coreutil.enums;
 public enum SortTypeEnum {  
    ASC(1), DESC(-1);  
      

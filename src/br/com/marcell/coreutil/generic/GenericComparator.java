@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-import br.com.marcell.coreutil.enumeration.SortTypeEnum;
+import br.com.marcell.coreutil.enums.SortTypeEnum;
 import br.com.marcell.coreutil.reflexao.Reflexao;
 
 @SuppressWarnings({ "unchecked", "rawtypes" })  

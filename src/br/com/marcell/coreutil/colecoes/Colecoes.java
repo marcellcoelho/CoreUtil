@@ -10,7 +10,7 @@ import java.util.List;
 
 import org.apache.commons.lang3.text.WordUtils;
 
-import br.com.marcell.coreutil.enumeration.SortTypeEnum;
+import br.com.marcell.coreutil.enums.SortTypeEnum;
 import br.com.marcell.coreutil.exception.BusinessException;
 import br.com.marcell.coreutil.generic.GenericComparator;
 
